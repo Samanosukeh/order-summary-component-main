@@ -25,7 +25,7 @@ export function Card() {
                 <p className="text-grey-dark ">$59.99/year</p>
             </div>
             <div className="w-1/5 text-sm text-primary-bright-blue m-auto">
-                <a href="" rel="noopener noreferrer">Change</a>
+                <button>Change</button>
             </div>
             </div>
 
