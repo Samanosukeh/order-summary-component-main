@@ -25,7 +25,7 @@ Want some support on the challenge? [Join our Slack community](https://www.front
 
 ### Screenshot
 #### My Solution
-<img src="https://github.com/Samanosukeh/order-summary-component-main/blob/master/Screenshot.png" width="100%" >
+<img src="https://github.com/Samanosukeh/order-summary-component-main/blob/master/Screenshot.PNG" width="100%" >
 
 ### Links
 - Solution URL: [Demo](https://order-summary-component-main-roan.vercel.app/)
