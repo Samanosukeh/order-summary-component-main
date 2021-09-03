@@ -3,8 +3,8 @@
 @tailwind utilities;
 
 * {
-    background-color:  hsl(225, 100%, 94%);
     margin: 0 auto;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'Red Hat Display';     
 }
